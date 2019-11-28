@@ -1,15 +1,15 @@
 <template>
-  <HomeLogin/>
+  <ProfileUser/>
 </template>
 
 <script>
 // @ is an alias to /src
-import HomeLogin from '@/components/HomeLogin.vue'
+import ProfileUser from '@/components/ProfileUser.vue'
 
 export default {
   name: 'home',
   components: {
-    HomeLogin
+    ProfileUser
   }
 }
 </script>
