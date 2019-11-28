@@ -1,4 +1,4 @@
-# test-task
+# Three viewer
 
 ## Project setup
 ```
